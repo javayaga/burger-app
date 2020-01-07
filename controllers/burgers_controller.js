@@ -10,6 +10,9 @@ const burger = require("../models/burger");
 
 // ROUTES
 // get all burgers
+router.get("/", (req, res) => {
+    burger.
+});
 
 // create a burger 
 
